@@ -1,6 +1,7 @@
 # Examination – PixelForge AI-assistent
 
-[Inspelad genomgång av examination](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBvujGtPaW3SLj-tnrMc05eATCz-uoDf7Nz0_AY6tPXO64?e=C8iRda)
+* [Inspelad genomgång av examination](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBvujGtPaW3SLj-tnrMc05eATCz-uoDf7Nz0_AY6tPXO64?e=C8iRda)
+* [Schema Code Review 30/10](https://docs.google.com/spreadsheets/d/16MViqvhqqkC3k70OBMchvngBB_tkBexhTIGv64tFR30/edit?usp=sharing)
 
 ## Projektbeskrivning
 
